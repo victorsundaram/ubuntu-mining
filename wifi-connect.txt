@@ -1,2 +1,3 @@
+#Install Network Manager Dependency
 #CLI Wifi Connect Ubuntu
 nmcli d wifi connect <WiFiSSID> password <WiFiPassword> iface <WifiInterface>
